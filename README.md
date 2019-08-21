@@ -1,0 +1,1 @@
+# vendor-mediatek-proprietary-external-mtd-utils
